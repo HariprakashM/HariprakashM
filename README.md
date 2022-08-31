@@ -12,7 +12,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://hariprakash-portfolio.netlify.app/#home)**
 
 - 📫 How to reach me **hariprakashm20@gmail.com**
 
