@@ -42,15 +42,15 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HariprakashM&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/HariprakashM/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hari prakash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HariprakashM&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HariprakashM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/HariprakashM/github-readme-stats"><img alt="Hari prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HariprakashM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariprakashM&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" 
    width="48" height="48"/></a> -->
   <br/>
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HariprakashM&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Hari prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HariprakashM&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -68,9 +68,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/hari-prakash-592466209"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/people/Hari-Prakash/100004517773474/"><img src="https://img.icons8.com/fluency/344/facebook-new.png"  width="48" height="48"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/___hariprakash___/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
@@ -79,4 +79,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HariprakashM">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/HariprakashM?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/HariprakashM?tab=followers"><img src="https://img.shields.io/github/followers/HariprakashM?label=Followers&style=social" alt="GitHub Badge"></a>
