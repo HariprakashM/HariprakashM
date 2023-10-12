@@ -58,12 +58,12 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/hari-prakash-592466209"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/people/Hari-Prakash/100004517773474/"><img src="https://img.icons8.com/fluency/344/facebook-new.png"  width="48" height="48"/></a>
-<a href = "https://www.instagram.com/___hariprakash___/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    ## Connect with me:
+    <p align="left">
+    
+    <a href = "https://www.linkedin.com/in/hari-prakash-592466209"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://www.facebook.com/people/Hari-Prakash/100004517773474/"><img src="https://img.icons8.com/fluency/344/facebook-new.png"  width="48" height="48"/></a>
+    <a href = "https://www.instagram.com/___hariprakash___/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
